@@ -15,7 +15,7 @@ CECS 274: Object Oritented Programming and Data Structures (Java):
   
   Program 3 - Linked List: Program to introduce the Linked List structure. The Linked List is manually implemented.
   
-  Program 4 - Happy Numbers:
+  Program 4 - Happy Numbers: Program to introduce the concept of recursion.
   
   Program 5 - RPN: An RPN calculator inplemented to introduce Stacks and Queues. Uses manual Linked List implementation from
                    Program 3 to emulate Stack and Queue data structures.
