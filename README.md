@@ -13,3 +13,9 @@ CECS 277: Object Oriented Application Development
 
 CECS 282: C++ for Java Programmers
 
+
+CECS 378: Intro to Computer Security Principles
+
+
+CECS 424: Organization of Programming Languages
+
